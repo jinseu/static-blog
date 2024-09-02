@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOMServer from 'react-dom/server';
-import { buildPage } from './build';
+import { buildPage } from './util';
 
 // components
 import ErrorPage from '../components/pages/Error';
